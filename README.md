@@ -67,7 +67,6 @@ DigitalClock/
 ## 👨‍💻 Author
 
 **Anuj Banote**  
-[\[GitHub Profile Link\] ](https://github.com/AnujBanote) 
-[\[Portfolio or LinkedIn if applicable\]](https://www.linkedin.com/in/anuj-banote-379250232)
+ 
 
  
