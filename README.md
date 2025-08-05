@@ -1,6 +1,6 @@
 # 🕒 Digital Clock Web App
 
-A simple and stylish digital clock web application built with **HTML**, **CSS**, and **JavaScript**. It displays the current time (12-hour format with AM/PM), the current date, and includes a button to toggle between light and dark modes.
+A simple and stylish digital clock web application built with **HTML**, **CSS**, and **JavaScript**. It displays the current time (12-hour format with AM/PM), the current date.
 
 ---
 
